@@ -1,0 +1,4 @@
+Trans,java -jar TranslateModule.jar
+Tax,java -jar TaxModule.jar
+Error,java -jar error.jar
+TB,java -jar textBroker.jar
